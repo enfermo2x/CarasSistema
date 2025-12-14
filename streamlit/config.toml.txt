@@ -1,0 +1,4 @@
+[general]
+# Especifica una versión de Python estable, como 3.11
+# Esto solucionará la incompatibilidad con cv2 (opencv-python)
+pythonVersion = 3.11
